@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'input_page.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'content.dart';
+import 'reusable_card.dart';
+import 'constent.dart';
+import 'result.dart';
 
 void main() => runApp(BMICalculator());
 
