@@ -5,6 +5,7 @@ import 'content.dart';
 import 'reusable_card.dart';
 import 'constent.dart';
 import 'result.dart';
+import 'calculatyor_brain.dart';
 
 void main() => runApp(BMICalculator());
 
